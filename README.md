@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database_Design-8A2BE2?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AIUB-003580?style=for-the-badge&logoColor=white"/>
 </p>
 
 > An Oracle SQL database system designed to help law enforcement in Bangladesh verify vehicles, identify their owners and drivers, and track cases filed against them — all through a normalized relational database.
